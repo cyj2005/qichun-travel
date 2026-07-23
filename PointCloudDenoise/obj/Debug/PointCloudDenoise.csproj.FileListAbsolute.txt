@@ -1,0 +1,6 @@
+C:\Users\cyj20\Desktop\点云去噪\PointCloudDenoise\bin\Debug\PointCloudDenoise.exe
+C:\Users\cyj20\Desktop\点云去噪\PointCloudDenoise\bin\Debug\PointCloudDenoise.pdb
+C:\Users\cyj20\Desktop\点云去噪\PointCloudDenoise\obj\Debug\PointCloudDenoise.csprojAssemblyReference.cache
+C:\Users\cyj20\Desktop\点云去噪\PointCloudDenoise\obj\Debug\PointCloudDenoise.csproj.CoreCompileInputs.cache
+C:\Users\cyj20\Desktop\点云去噪\PointCloudDenoise\obj\Debug\PointCloudDenoise.exe
+C:\Users\cyj20\Desktop\点云去噪\PointCloudDenoise\obj\Debug\PointCloudDenoise.pdb
